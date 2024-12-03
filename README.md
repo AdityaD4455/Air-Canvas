@@ -3,6 +3,7 @@ Overview
 The Air Canvas project is an innovative tool that allows users to draw on a virtual canvas in real-time using simple hand gestures. By utilizing a webcam and computer vision techniques, this project tracks hand movements and translates them into digital drawings, offering an interactive and fun way to create art without traditional tools.
 
 Features
+
 Real-Time Hand Tracking: Tracks the user's hand gestures using a webcam.
 Virtual Drawing: Enables drawing on a canvas without physical contact.
 Color Selection: Offers multiple colors for drawing by recognizing specific gestures or key presses.
@@ -21,6 +22,7 @@ Webcam (for capturing hand gestures)
 
 
 How to Use
+
 Ensure your webcam is connected and functioning.
 Launch the project using the command above.
 Move your hand within the webcam's view:
@@ -33,9 +35,12 @@ Add gesture-based undo and redo functionality.
 Enhance gesture recognition accuracy.
 Introduce support for multiple canvas sizes.
 Implement shape-drawing tools (e.g., circles, rectangles).
+
+
+
+
 Contribution
 We welcome contributions to enhance the Air Canvas project! If you'd like to contribute:
-
 Fork the repository.
 Create a feature branch.
 Commit your changes and push the branch.
