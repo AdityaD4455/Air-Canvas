@@ -40,6 +40,7 @@ Implement shape-drawing tools (e.g., circles, rectangles).
 
 
 Contribution
+
 We welcome contributions to enhance the Air Canvas project! If you'd like to contribute:
 Fork the repository.
 Create a feature branch.
@@ -49,6 +50,7 @@ License
 This project is licensed under the MIT License.
 
 Acknowledgments
+
 OpenCV
 Mediapipe
 
